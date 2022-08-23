@@ -18,7 +18,7 @@ public class Homecontrollerr {
     public String Display(Model model){
     model.addAttribute("Username","Divya");
 
-        return "display.html";
+        return "displayy.html";
     }
 
 
